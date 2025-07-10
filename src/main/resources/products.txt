@@ -1,0 +1,4 @@
+Fried Rice, 35000
+Pizza, 85000, Large
+Milk Tea, 55000, Large
+Sting, 15000
